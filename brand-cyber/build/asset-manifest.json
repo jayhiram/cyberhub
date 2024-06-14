@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06d8c797.css",
+    "main.js": "/static/js/main.da3d4899.js",
+    "static/js/453.98653208.chunk.js": "/static/js/453.98653208.chunk.js",
+    "static/media/sales.png": "/static/media/sales.9ce8dc066dc90c45c785.png",
+    "static/media/logo.jpeg": "/static/media/logo.420b432a9ee83c4f783a.jpeg",
+    "static/media/services.png": "/static/media/services.851d210791d207e4d692.png",
+    "static/media/phonecases.png": "/static/media/phonecases.ffcbc7b1c76643604f6a.png",
+    "static/media/CEO.jpeg": "/static/media/CEO.16ac2b372d62e005af3c.jpeg",
+    "static/media/stationary2.jpg": "/static/media/stationary2.b771cd39451d7f80022d.jpg",
+    "static/media/phoneaccessories.jpg": "/static/media/phoneaccessories.d4de7aadb9cf915c26e3.jpg",
+    "static/media/stationery.jpg": "/static/media/stationery.e910877bd01e4db434d9.jpg",
+    "static/media/extension.jpg": "/static/media/extension.7447e57a3ec57240492d.jpg",
+    "static/media/electronics.jpg": "/static/media/electronics.5a393814f603ab2fcfa3.jpg",
+    "static/media/laptop.jpg": "/static/media/laptop.e6ca46562a73d3447043.jpg",
+    "index.html": "/index.html",
+    "main.06d8c797.css.map": "/static/css/main.06d8c797.css.map",
+    "main.da3d4899.js.map": "/static/js/main.da3d4899.js.map",
+    "453.98653208.chunk.js.map": "/static/js/453.98653208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d8c797.css",
+    "static/js/main.da3d4899.js"
+  ]
+}
